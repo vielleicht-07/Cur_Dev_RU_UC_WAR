@@ -25,7 +25,7 @@ The Currency Conversion API Request project aims to analyze currency exchange ra
 - Identify significant trends and provide insights on the impact of these changes on various currencies.
 
 ## Analysis Details 📊
-- **Open-to-Close Average Analysis**: From February 2022 to February 2023.
+- **Open-to-Close Average Analysis**: From February 2017 to February 2023.
 - **Examination of Price Fluctuations**: During significant global events.
 
 ## Hypothesis 🤔
@@ -55,8 +55,6 @@ We believe that during the war between Russia and Ukraine, the currency that has
 ### Simple Moving Average (SMA) 📏
 We use the Simple Moving Average (SMA) to smooth out price fluctuations, allowing us to identify long-term trends and minimize the impact of sharp variations.
 
-## License 📜
-;P 
 
 ## References 🔗
 - [Alpha Vantage API Documentation](https://www.alphavantage.co/documentation/)
